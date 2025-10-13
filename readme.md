@@ -39,7 +39,7 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
 
 ##  Preview
 Contoh:  
-`![Preview Website] (./preview.png)`
+`![Preview Website](./preview.png)`
 ---
 
 ##  Cara Menjalankan
