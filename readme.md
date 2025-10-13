@@ -1,6 +1,3 @@
-#  Clone Website - Netflix Home
-
----
 ##  Profil
 **Nama:** Mochammad Zidane Firdaus  
 **Kelas:** IF D 2024  
@@ -47,7 +44,6 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
    ```bash
    git clone https://github.com/username/netflix-clone.git
    ```
-````
 
 2. Buka folder proyek
 
