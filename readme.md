@@ -1,7 +1,6 @@
-````markdown
-# 🎬 Clone Website - Netflix Home
+#  Clone Website - Netflix Home
 
-## 👤 Identitas
+##  Profil
 **Nama:** Mochammad Zidane Firdaus  
 **Kelas:** IF D 2024  
 **NPM:** 5520124118  
