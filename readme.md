@@ -20,15 +20,13 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
 2. **Fokus pada pengalaman pengguna (User Experience)** — tata letaknya bersih, navigasi sederhana, dan konten tersusun rapi sehingga memudahkan pengguna.
 3. **Responsif di berbagai perangkat** — tampilan Netflix tetap terlihat bagus baik di komputer, tablet, maupun smartphone.
 4. **Kombinasi warna yang kuat dan khas** — dominasi warna hitam dan merah menciptakan kesan premium dan tegas.
-5. **Sebagai latihan pembelajaran front-end** — dengan meniru website besar seperti Netflix, saya dapat memahami lebih dalam penggunaan HTML, CSS, dan JavaScript dalam pembuatan UI yang menarik dan profesional.
+5. **Sebagai latihan pembelajaran front-end** — dengan meniru website besar seperti Netflix, saya dapat memahami lebih dalam penggunaan HTML dan CSS dalam pembuatan UI yang menarik dan profesional.
 
 ---
 
 ##  Teknologi yang Digunakan
-- **HTML5** – untuk struktur halaman  
-- **CSS3** – untuk styling dan tata letak responsif  
-- **JavaScript (optional)** – untuk efek interaktif dan slider konten  
-
+- **HTML** – untuk struktur halaman  
+- **CSS** – untuk styling dan tata letak responsif  
 ---
 
 ##  Fitur Utama
