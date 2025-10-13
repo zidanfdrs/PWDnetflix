@@ -34,17 +34,18 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
 - Responsif untuk tampilan desktop dan mobile  
 - Navigasi sederhana dengan menu utama dan banner film  
 - Seksi film dengan layout bergulir (scroll horizontal)  
-
 ---
 
 ##  Preview
 ![Preview Website](./preview.png)
+
 ---
 
 ##  Cara Menjalankan
 1. Clone repository ini  
    ```bash
    git clone https://github.com/username/netflix-clone.git
+   ```
 ````
 
 2. Buka folder proyek
