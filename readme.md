@@ -42,13 +42,13 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
 ##  Cara Menjalankan
 1. Clone repository ini  
    ```bash
-   git clone https://github.com/username/netflix-clone.git
+   git clone https://github.com/zidanfrds/pwdnetflix.git
    ```
 
 2. Buka folder proyek
 
    ```bash
-   cd netflix-clone
+   cd pwdnetflix
    ```
 3. Jalankan di browser dengan membuka file `index.html`
 
