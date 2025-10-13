@@ -40,7 +40,6 @@ Saya memilih untuk meniru tampilan **Netflix Home** karena:
 ---
 
 ##  Preview
-*(Tambahkan screenshot hasil proyekmu di sini)*  
 Contoh:  
 `![Preview Website](./screenshot.png)`
 
